@@ -1,7 +1,9 @@
 API Documentation & Testing
 
 Todo - Todo list related operations
+
 add_todo - Add a new todo list
+
 <img width="806" alt="add_todo" src="https://github.com/user-attachments/assets/2332e4dc-bfd4-4aff-b280-e223431cab23" />
 Results - New todo list created successfully
 <img width="791" alt="add_todo results" src="https://github.com/user-attachments/assets/d9d174cf-b2ac-488b-8340-d229c4211599" />
