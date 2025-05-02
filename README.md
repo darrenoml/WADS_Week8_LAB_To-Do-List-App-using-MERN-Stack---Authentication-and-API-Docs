@@ -29,6 +29,7 @@ Results - Deleted todo list
 
 <img width="710" alt="delete_todo results" src="https://github.com/user-attachments/assets/c83684a5-c937-4bd8-aff7-a4a327d22e33" />
 
+
 User - User related operations
 
 signup - Sign up a new user
